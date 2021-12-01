@@ -2,7 +2,7 @@
 layout: default
 title:  "ARGOS software"
 has_children: false
-nav_order: 2
+nav_order: 4
 ---
 
 # ARGOS
