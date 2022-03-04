@@ -30,7 +30,7 @@ twitter_username: MamboUnich
 github_username:  mambolab
 
 # Build settings
-theme: just-the-docs
+#theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
