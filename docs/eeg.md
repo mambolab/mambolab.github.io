@@ -1,0 +1,15 @@
+Our EEG Bittium NeurOne system has:
+- 3 Jackboxes
+- 1 NeurOne Tesla Bipolar Connection Box
+- 3 NeurOne A/B Trigger Cable
+- 2 NeurOne Tesla 8V Battery Cable
+- 6 FlatRibbon Cables for Jackbox (30, 60, 90 cm)
+- 4 Optic Cables 25 cm
+- 1 USB Cable
+- 1 BNC to Opt Adapter
+- 10 EMG wires
+- 8 EEG channels
+- 8 Multirode 15 KOhm channels
+- 1 Offset calibrator Adapter
+- 2 NeurOne Potential Equalization
+- 500 Washer Electrodes
