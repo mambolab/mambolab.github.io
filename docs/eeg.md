@@ -13,3 +13,8 @@ Our EEG Bittium NeurOne system has:
 - 1 Offset calibrator Adapter
 - 2 NeurOne Potential Equalization
 - 500 Washer Electrodes
+- 1 EasyCap EEG Cap (128 channels, 54 cm)
+- 1 EasyCap EEG Cap (32 channels, 58 cm)
+- 4 Tesla MRI Amplifiers
+- 2 Main Unit Model Black
+- 1 SyncBox
